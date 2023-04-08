@@ -15,6 +15,8 @@
 		946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */; };
 		946BD59329E13E5500697B28 /* StackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59229E13E5500697B28 /* StackPractice.swift */; };
 		946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59429E143F400697B28 /* PaddingPractice.swift */; };
+		946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59629E15D4B00697B28 /* SpacerPractice.swift */; };
+		946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59829E1626100697B28 /* ScrollViewPractice.swift */; };
 		94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */; };
 		94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2A29DEA827000E0AFB /* ContentView.swift */; };
 		94D64C2D29DEA828000E0AFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94D64C2C29DEA828000E0AFB /* Assets.xcassets */; };
@@ -32,6 +34,8 @@
 		946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayPractice.swift; sourceTree = "<group>"; };
 		946BD59229E13E5500697B28 /* StackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackPractice.swift; sourceTree = "<group>"; };
 		946BD59429E143F400697B28 /* PaddingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingPractice.swift; sourceTree = "<group>"; };
+		946BD59629E15D4B00697B28 /* SpacerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerPractice.swift; sourceTree = "<group>"; };
+		946BD59829E1626100697B28 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
 		94D64C2529DEA827000E0AFB /* SwiftUIBasicPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasicPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicPracticeApp.swift; sourceTree = "<group>"; };
 		94D64C2A29DEA827000E0AFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +87,8 @@
 				946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */,
 				946BD59229E13E5500697B28 /* StackPractice.swift */,
 				946BD59429E143F400697B28 /* PaddingPractice.swift */,
+				946BD59629E15D4B00697B28 /* SpacerPractice.swift */,
+				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -167,9 +173,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
 				943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */,
 				943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
+				946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */,
 				946BD59329E13E5500697B28 /* StackPractice.swift in Sources */,
 				946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */,
 				94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */,
