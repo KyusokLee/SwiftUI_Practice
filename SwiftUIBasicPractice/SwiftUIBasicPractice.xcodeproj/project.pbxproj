@@ -23,6 +23,7 @@
 		94D64C3029DEA828000E0AFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94D64C2F29DEA828000E0AFB /* Preview Assets.xcassets */; };
 		94D64C3729DEA8EF000E0AFB /* TextPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3629DEA8EF000E0AFB /* TextPractice.swift */; };
 		94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3829DEB18D000E0AFB /* ShapePractice.swift */; };
+		94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78529EC2246007A2946 /* InitEnumPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		94D64C2F29DEA828000E0AFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		94D64C3629DEA8EF000E0AFB /* TextPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractice.swift; sourceTree = "<group>"; };
 		94D64C3829DEB18D000E0AFB /* ShapePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapePractice.swift; sourceTree = "<group>"; };
+		94F8D78529EC2246007A2946 /* InitEnumPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				946BD59429E143F400697B28 /* PaddingPractice.swift */,
 				946BD59629E15D4B00697B28 /* SpacerPractice.swift */,
 				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
+				94F8D78529EC2246007A2946 /* InitEnumPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -183,6 +186,7 @@
 				94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */,
 				946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */,
 				943F9B6529E04526004D16D1 /* IconPractice.swift in Sources */,
+				94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */,
 				943F9B6729E04660004D16D1 /* ImagePractice.swift in Sources */,
 				94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */,
 				943F9B6129E03E6C004D16D1 /* ColorPractice.swift in Sources */,
