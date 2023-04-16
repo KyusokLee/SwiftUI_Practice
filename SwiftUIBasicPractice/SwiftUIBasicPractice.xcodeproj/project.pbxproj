@@ -24,6 +24,7 @@
 		94D64C3729DEA8EF000E0AFB /* TextPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3629DEA8EF000E0AFB /* TextPractice.swift */; };
 		94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3829DEB18D000E0AFB /* ShapePractice.swift */; };
 		94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78529EC2246007A2946 /* InitEnumPractice.swift */; };
+		94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78729EC2348007A2946 /* ForEachPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		94D64C3629DEA8EF000E0AFB /* TextPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractice.swift; sourceTree = "<group>"; };
 		94D64C3829DEB18D000E0AFB /* ShapePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapePractice.swift; sourceTree = "<group>"; };
 		94F8D78529EC2246007A2946 /* InitEnumPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumPractice.swift; sourceTree = "<group>"; };
+		94F8D78729EC2348007A2946 /* ForEachPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				946BD59629E15D4B00697B28 /* SpacerPractice.swift */,
 				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
 				94F8D78529EC2246007A2946 /* InitEnumPractice.swift */,
+				94F8D78729EC2348007A2946 /* ForEachPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -179,6 +182,7 @@
 				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
 				943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */,
 				943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */,
+				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
 				946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */,
 				946BD59329E13E5500697B28 /* StackPractice.swift in Sources */,
