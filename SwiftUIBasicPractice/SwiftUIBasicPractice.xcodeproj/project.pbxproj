@@ -17,6 +17,7 @@
 		946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59429E143F400697B28 /* PaddingPractice.swift */; };
 		946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59629E15D4B00697B28 /* SpacerPractice.swift */; };
 		946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59829E1626100697B28 /* ScrollViewPractice.swift */; };
+		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
 		94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */; };
 		94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2A29DEA827000E0AFB /* ContentView.swift */; };
 		94D64C2D29DEA828000E0AFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94D64C2C29DEA828000E0AFB /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 		946BD59429E143F400697B28 /* PaddingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingPractice.swift; sourceTree = "<group>"; };
 		946BD59629E15D4B00697B28 /* SpacerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerPractice.swift; sourceTree = "<group>"; };
 		946BD59829E1626100697B28 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
+		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
 		94D64C2529DEA827000E0AFB /* SwiftUIBasicPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasicPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicPracticeApp.swift; sourceTree = "<group>"; };
 		94D64C2A29DEA827000E0AFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
 				94F8D78529EC2246007A2946 /* InitEnumPractice.swift */,
 				94F8D78729EC2348007A2946 /* ForEachPractice.swift */,
+				949F849E29ED80730006D6F4 /* LazyGridPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -189,6 +192,7 @@
 				946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */,
 				94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */,
 				946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */,
+				949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */,
 				943F9B6529E04526004D16D1 /* IconPractice.swift in Sources */,
 				94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */,
 				943F9B6729E04660004D16D1 /* ImagePractice.swift in Sources */,
