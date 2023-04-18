@@ -65,12 +65,12 @@ struct LazyGridPractice: View {
                         .foregroundColor(.white)
                         .font(.title)
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .background(Color.red)
+                        .background(.red)
                         .padding()
                     ) {
                         ForEach(0..<20) { index in
                             Rectangle()
-                                .fill(Color.green)
+                                .fill(.green)
                                 .frame(height: 150)
                                 .overlay(
                                     Text("\(index) 番")
@@ -78,7 +78,7 @@ struct LazyGridPractice: View {
                         }
                     } //: Section 2
                 }
-        } // :1번
+        } // :1番
         
         // LazyHGrid
         // ScrollView horizontal
@@ -87,11 +87,11 @@ struct LazyGridPractice: View {
                 ForEach(title, id: \.self) { item  in
                     VStack {
                         Capsule()
-                            .fill(Color.yellow)
+                            .fill(.yellow)
                             .frame(height: 30)
                         
                         Text(item)
-                            .foregroundColor(Color.blue)
+                            .foregroundColor(.blue)
                     }
                 }
             }
