@@ -18,6 +18,7 @@
 		946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59629E15D4B00697B28 /* SpacerPractice.swift */; };
 		946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59829E1626100697B28 /* ScrollViewPractice.swift */; };
 		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
+		94C271F529F16246005CFEF1 /* ButtonPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C271F429F16246005CFEF1 /* ButtonPractice.swift */; };
 		94C5765E29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */; };
 		94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */; };
 		94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C2A29DEA827000E0AFB /* ContentView.swift */; };
@@ -41,6 +42,7 @@
 		946BD59629E15D4B00697B28 /* SpacerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerPractice.swift; sourceTree = "<group>"; };
 		946BD59829E1626100697B28 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
 		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
+		94C271F429F16246005CFEF1 /* ButtonPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPractice.swift; sourceTree = "<group>"; };
 		94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaPractice.swift; sourceTree = "<group>"; };
 		94D64C2529DEA827000E0AFB /* SwiftUIBasicPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBasicPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBasicPracticeApp.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				94F8D78729EC2348007A2946 /* ForEachPractice.swift */,
 				949F849E29ED80730006D6F4 /* LazyGridPractice.swift */,
 				94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */,
+				94C271F429F16246005CFEF1 /* ButtonPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -187,6 +190,7 @@
 			files = (
 				94C5765E29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift in Sources */,
 				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
+				94C271F529F16246005CFEF1 /* ButtonPractice.swift in Sources */,
 				943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */,
 				943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */,
 				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
