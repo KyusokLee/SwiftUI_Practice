@@ -28,6 +28,7 @@
 		94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3829DEB18D000E0AFB /* ShapePractice.swift */; };
 		94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78529EC2246007A2946 /* InitEnumPractice.swift */; };
 		94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78729EC2348007A2946 /* ForEachPractice.swift */; };
+		94FD731A29F2D03600D3391A /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FD731929F2D03600D3391A /* StatePractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		94D64C3829DEB18D000E0AFB /* ShapePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapePractice.swift; sourceTree = "<group>"; };
 		94F8D78529EC2246007A2946 /* InitEnumPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumPractice.swift; sourceTree = "<group>"; };
 		94F8D78729EC2348007A2946 /* ForEachPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachPractice.swift; sourceTree = "<group>"; };
+		94FD731929F2D03600D3391A /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */,
 				94C271F429F16246005CFEF1 /* ButtonPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
+				94FD731829F2CFF800D3391A /* PassData */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
 			path = SwiftUIBasicPractice;
@@ -116,6 +119,14 @@
 				94D64C2F29DEA828000E0AFB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		94FD731829F2CFF800D3391A /* PassData */ = {
+			isa = PBXGroup;
+			children = (
+				94FD731929F2D03600D3391A /* StatePractice.swift */,
+			);
+			path = PassData;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -206,6 +217,7 @@
 				943F9B6729E04660004D16D1 /* ImagePractice.swift in Sources */,
 				94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */,
 				943F9B6129E03E6C004D16D1 /* ColorPractice.swift in Sources */,
+				94FD731A29F2D03600D3391A /* StatePractice.swift in Sources */,
 				94D64C3729DEA8EF000E0AFB /* TextPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
