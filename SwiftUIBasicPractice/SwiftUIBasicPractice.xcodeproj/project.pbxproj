@@ -89,24 +89,8 @@
 			children = (
 				94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */,
 				94D64C2A29DEA827000E0AFB /* ContentView.swift */,
-				94D64C3629DEA8EF000E0AFB /* TextPractice.swift */,
-				94D64C3829DEB18D000E0AFB /* ShapePractice.swift */,
-				943F9B6029E03E6C004D16D1 /* ColorPractice.swift */,
-				943F9B6229E041D2004D16D1 /* GradientPractice.swift */,
-				943F9B6429E04526004D16D1 /* IconPractice.swift */,
-				943F9B6629E04660004D16D1 /* ImagePractice.swift */,
-				943F9B6829E049EB004D16D1 /* FramePractice.swift */,
-				946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */,
-				946BD59229E13E5500697B28 /* StackPractice.swift */,
-				946BD59429E143F400697B28 /* PaddingPractice.swift */,
-				946BD59629E15D4B00697B28 /* SpacerPractice.swift */,
-				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
-				94F8D78529EC2246007A2946 /* InitEnumPractice.swift */,
-				94F8D78729EC2348007A2946 /* ForEachPractice.swift */,
-				949F849E29ED80730006D6F4 /* LazyGridPractice.swift */,
-				94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */,
-				94C271F429F16246005CFEF1 /* ButtonPractice.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
+				94FD731B29F2D4C500D3391A /* BasicCore1 */,
 				94FD731829F2CFF800D3391A /* PassData */,
 				94D64C2E29DEA828000E0AFB /* Preview Content */,
 			);
@@ -127,6 +111,30 @@
 				94FD731929F2D03600D3391A /* StatePractice.swift */,
 			);
 			path = PassData;
+			sourceTree = "<group>";
+		};
+		94FD731B29F2D4C500D3391A /* BasicCore1 */ = {
+			isa = PBXGroup;
+			children = (
+				94D64C3629DEA8EF000E0AFB /* TextPractice.swift */,
+				94D64C3829DEB18D000E0AFB /* ShapePractice.swift */,
+				943F9B6029E03E6C004D16D1 /* ColorPractice.swift */,
+				943F9B6229E041D2004D16D1 /* GradientPractice.swift */,
+				943F9B6429E04526004D16D1 /* IconPractice.swift */,
+				943F9B6629E04660004D16D1 /* ImagePractice.swift */,
+				943F9B6829E049EB004D16D1 /* FramePractice.swift */,
+				946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */,
+				946BD59229E13E5500697B28 /* StackPractice.swift */,
+				946BD59429E143F400697B28 /* PaddingPractice.swift */,
+				946BD59629E15D4B00697B28 /* SpacerPractice.swift */,
+				946BD59829E1626100697B28 /* ScrollViewPractice.swift */,
+				94F8D78529EC2246007A2946 /* InitEnumPractice.swift */,
+				94F8D78729EC2348007A2946 /* ForEachPractice.swift */,
+				949F849E29ED80730006D6F4 /* LazyGridPractice.swift */,
+				94C5765D29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift */,
+				94C271F429F16246005CFEF1 /* ButtonPractice.swift */,
+			);
+			path = BasicCore1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
