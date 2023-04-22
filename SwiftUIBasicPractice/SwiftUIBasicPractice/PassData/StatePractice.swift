@@ -80,6 +80,8 @@ struct StatePractice: View {
                                 .shadow(radius: 10)
                         )
                 }
+                
+
             }
             .foregroundColor(.white)
             
