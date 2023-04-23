@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUIBasicPracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            TransitionPractice()
         }
     }
 }
