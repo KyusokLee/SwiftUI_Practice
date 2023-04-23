@@ -17,6 +17,8 @@
 		946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59429E143F400697B28 /* PaddingPractice.swift */; };
 		946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59629E15D4B00697B28 /* SpacerPractice.swift */; };
 		946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59829E1626100697B28 /* ScrollViewPractice.swift */; };
+		949B9E6129F528A30004D453 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6029F528A30004D453 /* BindingPractice.swift */; };
+		949B9E6329F528B30004D453 /* BindingChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6229F528B30004D453 /* BindingChild.swift */; };
 		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
 		94B7759829F4276800076123 /* ExtractViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759729F4276800076123 /* ExtractViewPractice.swift */; };
 		94B7759A29F4281800076123 /* ExtractSubviewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759929F4281800076123 /* ExtractSubviewPractice.swift */; };
@@ -45,6 +47,8 @@
 		946BD59429E143F400697B28 /* PaddingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingPractice.swift; sourceTree = "<group>"; };
 		946BD59629E15D4B00697B28 /* SpacerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerPractice.swift; sourceTree = "<group>"; };
 		946BD59829E1626100697B28 /* ScrollViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPractice.swift; sourceTree = "<group>"; };
+		949B9E6029F528A30004D453 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
+		949B9E6229F528B30004D453 /* BindingChild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingChild.swift; sourceTree = "<group>"; };
 		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
 		94B7759729F4276800076123 /* ExtractViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractViewPractice.swift; sourceTree = "<group>"; };
 		94B7759929F4281800076123 /* ExtractSubviewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewPractice.swift; sourceTree = "<group>"; };
@@ -78,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				94B7759C29F4286F00076123 /* ItemModelPractice.swift */,
+				949B9E6229F528B30004D453 /* BindingChild.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -126,6 +131,7 @@
 				94FD731929F2D03600D3391A /* StatePractice.swift */,
 				94B7759729F4276800076123 /* ExtractViewPractice.swift */,
 				94B7759929F4281800076123 /* ExtractSubviewPractice.swift */,
+				949B9E6029F528A30004D453 /* BindingPractice.swift */,
 			);
 			path = PassData;
 			sourceTree = "<group>";
@@ -230,6 +236,8 @@
 				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
 				94C271F529F16246005CFEF1 /* ButtonPractice.swift in Sources */,
 				943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */,
+				949B9E6129F528A30004D453 /* BindingPractice.swift in Sources */,
+				949B9E6329F528B30004D453 /* BindingChild.swift in Sources */,
 				943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */,
 				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
