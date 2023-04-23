@@ -21,6 +21,7 @@
 		949B9E6329F528B30004D453 /* BindingChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6229F528B30004D453 /* BindingChild.swift */; };
 		949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6429F537130004D453 /* ConditionalPractice.swift */; };
 		949B9E6729F53A540004D453 /* TenaryOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6629F53A540004D453 /* TenaryOperator.swift */; };
+		949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6929F53B5E0004D453 /* AnimationPractice.swift */; };
 		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
 		94B7759829F4276800076123 /* ExtractViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759729F4276800076123 /* ExtractViewPractice.swift */; };
 		94B7759A29F4281800076123 /* ExtractSubviewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759929F4281800076123 /* ExtractSubviewPractice.swift */; };
@@ -53,6 +54,7 @@
 		949B9E6229F528B30004D453 /* BindingChild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingChild.swift; sourceTree = "<group>"; };
 		949B9E6429F537130004D453 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
 		949B9E6629F53A540004D453 /* TenaryOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenaryOperator.swift; sourceTree = "<group>"; };
+		949B9E6929F53B5E0004D453 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
 		94B7759729F4276800076123 /* ExtractViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractViewPractice.swift; sourceTree = "<group>"; };
 		94B7759929F4281800076123 /* ExtractSubviewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewPractice.swift; sourceTree = "<group>"; };
@@ -82,6 +84,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		949B9E6829F53B100004D453 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				949B9E6929F53B5E0004D453 /* AnimationPractice.swift */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
 		94B7759B29F4284C00076123 /* Component */ = {
 			isa = PBXGroup;
 			children = (
@@ -113,6 +123,7 @@
 				94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */,
 				94D64C2A29DEA827000E0AFB /* ContentView.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
+				949B9E6829F53B100004D453 /* Animation */,
 				94B7759B29F4284C00076123 /* Component */,
 				94FD731B29F2D4C500D3391A /* BasicCore1 */,
 				94FD731829F2CFF800D3391A /* PassData */,
@@ -245,6 +256,7 @@
 				949B9E6129F528A30004D453 /* BindingPractice.swift in Sources */,
 				949B9E6329F528B30004D453 /* BindingChild.swift in Sources */,
 				943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */,
+				949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */,
 				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
 				949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */,
