@@ -25,6 +25,8 @@
 		949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6929F53B5E0004D453 /* AnimationPractice.swift */; };
 		949DAAA629F6C90F00585A76 /* SheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAA529F6C90F00585A76 /* SheetPractice.swift */; };
 		949DAAA829F6CA9200585A76 /* SheetBasicSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */; };
+		949DAAAA29F6D12A00585A76 /* NavigationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAA929F6D12A00585A76 /* NavigationPractice.swift */; };
+		949DAAAC29F6D17600585A76 /* SecondNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAAB29F6D17600585A76 /* SecondNavigationView.swift */; };
 		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
 		94B7759829F4276800076123 /* ExtractViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759729F4276800076123 /* ExtractViewPractice.swift */; };
 		94B7759A29F4281800076123 /* ExtractSubviewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759929F4281800076123 /* ExtractSubviewPractice.swift */; };
@@ -61,6 +63,8 @@
 		949B9E6929F53B5E0004D453 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		949DAAA529F6C90F00585A76 /* SheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetPractice.swift; sourceTree = "<group>"; };
 		949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasicSecond.swift; sourceTree = "<group>"; };
+		949DAAA929F6D12A00585A76 /* NavigationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPractice.swift; sourceTree = "<group>"; };
+		949DAAAB29F6D17600585A76 /* SecondNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNavigationView.swift; sourceTree = "<group>"; };
 		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
 		94B7759729F4276800076123 /* ExtractViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractViewPractice.swift; sourceTree = "<group>"; };
 		94B7759929F4281800076123 /* ExtractSubviewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewPractice.swift; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 			children = (
 				949DAAA529F6C90F00585A76 /* SheetPractice.swift */,
 				949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */,
+				949DAAA929F6D12A00585A76 /* NavigationPractice.swift */,
+				949DAAAB29F6D17600585A76 /* SecondNavigationView.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -276,8 +282,10 @@
 				949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */,
 				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
+				949DAAAC29F6D17600585A76 /* SecondNavigationView.swift in Sources */,
 				949DAAA629F6C90F00585A76 /* SheetPractice.swift in Sources */,
 				949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */,
+				949DAAAA29F6D12A00585A76 /* NavigationPractice.swift in Sources */,
 				946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */,
 				946BD59329E13E5500697B28 /* StackPractice.swift in Sources */,
 				946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */,
