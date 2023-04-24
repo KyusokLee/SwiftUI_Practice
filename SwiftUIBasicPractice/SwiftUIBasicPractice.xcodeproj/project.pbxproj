@@ -23,6 +23,8 @@
 		949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6429F537130004D453 /* ConditionalPractice.swift */; };
 		949B9E6729F53A540004D453 /* TenaryOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6629F53A540004D453 /* TenaryOperator.swift */; };
 		949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949B9E6929F53B5E0004D453 /* AnimationPractice.swift */; };
+		949DAAA629F6C90F00585A76 /* SheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAA529F6C90F00585A76 /* SheetPractice.swift */; };
+		949DAAA829F6CA9200585A76 /* SheetBasicSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */; };
 		949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F849E29ED80730006D6F4 /* LazyGridPractice.swift */; };
 		94B7759829F4276800076123 /* ExtractViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759729F4276800076123 /* ExtractViewPractice.swift */; };
 		94B7759A29F4281800076123 /* ExtractSubviewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B7759929F4281800076123 /* ExtractSubviewPractice.swift */; };
@@ -57,6 +59,8 @@
 		949B9E6429F537130004D453 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
 		949B9E6629F53A540004D453 /* TenaryOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenaryOperator.swift; sourceTree = "<group>"; };
 		949B9E6929F53B5E0004D453 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
+		949DAAA529F6C90F00585A76 /* SheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetPractice.swift; sourceTree = "<group>"; };
+		949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasicSecond.swift; sourceTree = "<group>"; };
 		949F849E29ED80730006D6F4 /* LazyGridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridPractice.swift; sourceTree = "<group>"; };
 		94B7759729F4276800076123 /* ExtractViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractViewPractice.swift; sourceTree = "<group>"; };
 		94B7759929F4281800076123 /* ExtractSubviewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewPractice.swift; sourceTree = "<group>"; };
@@ -95,6 +99,15 @@
 			path = Animation;
 			sourceTree = "<group>";
 		};
+		949DAAA429F6C8D600585A76 /* BasicCore2 */ = {
+			isa = PBXGroup;
+			children = (
+				949DAAA529F6C90F00585A76 /* SheetPractice.swift */,
+				949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */,
+			);
+			path = BasicCore2;
+			sourceTree = "<group>";
+		};
 		94B7759B29F4284C00076123 /* Component */ = {
 			isa = PBXGroup;
 			children = (
@@ -126,6 +139,7 @@
 				94D64C2829DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift */,
 				94D64C2A29DEA827000E0AFB /* ContentView.swift */,
 				94D64C2C29DEA828000E0AFB /* Assets.xcassets */,
+				949DAAA429F6C8D600585A76 /* BasicCore2 */,
 				949B9E6829F53B100004D453 /* Animation */,
 				94B7759B29F4284C00076123 /* Component */,
 				94FD731B29F2D4C500D3391A /* BasicCore1 */,
@@ -262,6 +276,7 @@
 				949B9E6A29F53B5E0004D453 /* AnimationPractice.swift in Sources */,
 				94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */,
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
+				949DAAA629F6C90F00585A76 /* SheetPractice.swift in Sources */,
 				949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */,
 				946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */,
 				946BD59329E13E5500697B28 /* StackPractice.swift in Sources */,
@@ -269,6 +284,7 @@
 				94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */,
 				946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */,
 				949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */,
+				949DAAA829F6CA9200585A76 /* SheetBasicSecond.swift in Sources */,
 				943F9B6529E04526004D16D1 /* IconPractice.swift in Sources */,
 				94B7759D29F4286F00076123 /* ItemModelPractice.swift in Sources */,
 				94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */,
