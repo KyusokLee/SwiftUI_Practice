@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9415233A29F96894003E05C1 /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9415233929F96894003E05C1 /* ListPractice.swift */; };
 		941DAB2629F55E2E00925EEB /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941DAB2529F55E2E00925EEB /* TransitionPractice.swift */; };
 		943F9B6129E03E6C004D16D1 /* ColorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943F9B6029E03E6C004D16D1 /* ColorPractice.swift */; };
 		943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943F9B6229E041D2004D16D1 /* GradientPractice.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9415233929F96894003E05C1 /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
 		941DAB2529F55E2E00925EEB /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
 		943F9B6029E03E6C004D16D1 /* ColorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPractice.swift; sourceTree = "<group>"; };
 		943F9B6229E041D2004D16D1 /* GradientPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientPractice.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				949DAAA729F6CA9200585A76 /* SheetBasicSecond.swift */,
 				949DAAA929F6D12A00585A76 /* NavigationPractice.swift */,
 				949DAAAB29F6D17600585A76 /* SecondNavigationView.swift */,
+				9415233929F96894003E05C1 /* ListPractice.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 				94D64C2929DEA827000E0AFB /* SwiftUIBasicPracticeApp.swift in Sources */,
 				946BD59529E143F400697B28 /* PaddingPractice.swift in Sources */,
 				949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */,
+				9415233A29F96894003E05C1 /* ListPractice.swift in Sources */,
 				949DAAA829F6CA9200585A76 /* SheetBasicSecond.swift in Sources */,
 				943F9B6529E04526004D16D1 /* IconPractice.swift in Sources */,
 				94B7759D29F4286F00076123 /* ItemModelPractice.swift in Sources */,
