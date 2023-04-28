@@ -41,6 +41,7 @@
 		94D64C3029DEA828000E0AFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94D64C2F29DEA828000E0AFB /* Preview Assets.xcassets */; };
 		94D64C3729DEA8EF000E0AFB /* TextPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3629DEA8EF000E0AFB /* TextPractice.swift */; };
 		94D64C3929DEB18D000E0AFB /* ShapePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D64C3829DEB18D000E0AFB /* ShapePractice.swift */; };
+		94EB5CC729FC005B00883E1C /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */; };
 		94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78529EC2246007A2946 /* InitEnumPractice.swift */; };
 		94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78729EC2348007A2946 /* ForEachPractice.swift */; };
 		94FD731A29F2D03600D3391A /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FD731929F2D03600D3391A /* StatePractice.swift */; };
@@ -82,6 +83,7 @@
 		94D64C2F29DEA828000E0AFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		94D64C3629DEA8EF000E0AFB /* TextPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractice.swift; sourceTree = "<group>"; };
 		94D64C3829DEB18D000E0AFB /* ShapePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapePractice.swift; sourceTree = "<group>"; };
+		94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		94F8D78529EC2246007A2946 /* InitEnumPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumPractice.swift; sourceTree = "<group>"; };
 		94F8D78729EC2348007A2946 /* ForEachPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachPractice.swift; sourceTree = "<group>"; };
 		94FD731929F2D03600D3391A /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				949DAAAB29F6D17600585A76 /* SecondNavigationView.swift */,
 				9415233929F96894003E05C1 /* ListPractice.swift */,
 				946765F229FAAA730029AA3B /* AlertPractice.swift */,
+				94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				949F849F29ED80730006D6F4 /* LazyGridPractice.swift in Sources */,
 				9415233A29F96894003E05C1 /* ListPractice.swift in Sources */,
 				949DAAA829F6CA9200585A76 /* SheetBasicSecond.swift in Sources */,
+				94EB5CC729FC005B00883E1C /* ContextMenuPractice.swift in Sources */,
 				943F9B6529E04526004D16D1 /* IconPractice.swift in Sources */,
 				94B7759D29F4286F00076123 /* ItemModelPractice.swift in Sources */,
 				94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */,
