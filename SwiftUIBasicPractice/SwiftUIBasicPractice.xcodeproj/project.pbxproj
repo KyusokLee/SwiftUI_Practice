@@ -15,6 +15,7 @@
 		943F9B6729E04660004D16D1 /* ImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943F9B6629E04660004D16D1 /* ImagePractice.swift */; };
 		943F9B6929E049EB004D16D1 /* FramePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943F9B6829E049EB004D16D1 /* FramePractice.swift */; };
 		9448670129FC079D00F360EA /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448670029FC079D00F360EA /* ActionSheetPractice.swift */; };
+		944E2AAC29FD17B0006FF4E8 /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944E2AAB29FD17B0006FF4E8 /* TextFieldPractice.swift */; };
 		946765F329FAAA730029AA3B /* AlertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946765F229FAAA730029AA3B /* AlertPractice.swift */; };
 		946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */; };
 		946BD59329E13E5500697B28 /* StackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59229E13E5500697B28 /* StackPractice.swift */; };
@@ -57,6 +58,7 @@
 		943F9B6629E04660004D16D1 /* ImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePractice.swift; sourceTree = "<group>"; };
 		943F9B6829E049EB004D16D1 /* FramePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramePractice.swift; sourceTree = "<group>"; };
 		9448670029FC079D00F360EA /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
+		944E2AAB29FD17B0006FF4E8 /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
 		946765F229FAAA730029AA3B /* AlertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPractice.swift; sourceTree = "<group>"; };
 		946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayPractice.swift; sourceTree = "<group>"; };
 		946BD59229E13E5500697B28 /* StackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackPractice.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				946765F229FAAA730029AA3B /* AlertPractice.swift */,
 				94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */,
 				9448670029FC079D00F360EA /* ActionSheetPractice.swift */,
+				944E2AAB29FD17B0006FF4E8 /* TextFieldPractice.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				94D64C2B29DEA827000E0AFB /* ContentView.swift in Sources */,
 				949DAAAC29F6D17600585A76 /* SecondNavigationView.swift in Sources */,
 				949DAAA629F6C90F00585A76 /* SheetPractice.swift in Sources */,
+				944E2AAC29FD17B0006FF4E8 /* TextFieldPractice.swift in Sources */,
 				949B9E6529F537130004D453 /* ConditionalPractice.swift in Sources */,
 				949DAAAA29F6D12A00585A76 /* NavigationPractice.swift in Sources */,
 				946BD59729E15D4B00697B28 /* SpacerPractice.swift in Sources */,

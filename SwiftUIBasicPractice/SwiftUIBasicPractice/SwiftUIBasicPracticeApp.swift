@@ -12,7 +12,8 @@ struct SwiftUIBasicPracticeApp: App {
     var body: some Scene {
         WindowGroup {
             //ContentView()
-            TransitionPractice()
+//            TransitionPractice()
+            TextFieldPractice()
         }
     }
 }
