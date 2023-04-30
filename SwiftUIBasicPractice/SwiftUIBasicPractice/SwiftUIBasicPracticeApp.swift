@@ -13,7 +13,8 @@ struct SwiftUIBasicPracticeApp: App {
         WindowGroup {
             //ContentView()
 //            TransitionPractice()
-            TextFieldPractice()
+            //TextFieldPractice()
+            DatePickerPractice()
         }
     }
 }
