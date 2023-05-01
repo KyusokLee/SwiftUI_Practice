@@ -52,6 +52,7 @@
 		94EB5CC729FC005B00883E1C /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */; };
 		94EF787929FFEC1C00A682EA /* TabViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF787829FFEC1C00A682EA /* TabViewPractice.swift */; };
 		94EF787B29FFEF7400A682EA /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF787A29FFEF7400A682EA /* DarkModePractice.swift */; };
+		94EF787D29FFF24600A682EA /* OnAppearPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF787C29FFF24600A682EA /* OnAppearPractice.swift */; };
 		94F8D78629EC2246007A2946 /* InitEnumPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78529EC2246007A2946 /* InitEnumPractice.swift */; };
 		94F8D78829EC2348007A2946 /* ForEachPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F8D78729EC2348007A2946 /* ForEachPractice.swift */; };
 		94FD731A29F2D03600D3391A /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FD731929F2D03600D3391A /* StatePractice.swift */; };
@@ -104,6 +105,7 @@
 		94EB5CC629FC005B00883E1C /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		94EF787829FFEC1C00A682EA /* TabViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPractice.swift; sourceTree = "<group>"; };
 		94EF787A29FFEF7400A682EA /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
+		94EF787C29FFF24600A682EA /* OnAppearPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearPractice.swift; sourceTree = "<group>"; };
 		94F8D78529EC2246007A2946 /* InitEnumPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumPractice.swift; sourceTree = "<group>"; };
 		94F8D78729EC2348007A2946 /* ForEachPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachPractice.swift; sourceTree = "<group>"; };
 		94FD731929F2D03600D3391A /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				945C8F1129FFE884002B7651 /* SliderPractice.swift */,
 				94EF787829FFEC1C00A682EA /* TabViewPractice.swift */,
 				94EF787A29FFEF7400A682EA /* DarkModePractice.swift */,
+				94EF787C29FFF24600A682EA /* OnAppearPractice.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 				94B7759A29F4281800076123 /* ExtractSubviewPractice.swift in Sources */,
 				94B7759829F4276800076123 /* ExtractViewPractice.swift in Sources */,
 				9448670129FC079D00F360EA /* ActionSheetPractice.swift in Sources */,
+				94EF787D29FFF24600A682EA /* OnAppearPractice.swift in Sources */,
 				94C5765E29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift in Sources */,
 				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
 				945C8F1229FFE884002B7651 /* SliderPractice.swift in Sources */,
