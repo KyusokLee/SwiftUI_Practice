@@ -21,6 +21,7 @@
 		944E2AB229FD54FD006FF4E8 /* ColorPickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944E2AB129FD54FD006FF4E8 /* ColorPickerPractice.swift */; };
 		944E2AB429FD5658006FF4E8 /* DatePickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 944E2AB329FD5658006FF4E8 /* DatePickerPractice.swift */; };
 		945C8F1029FFD91B002B7651 /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945C8F0F29FFD91B002B7651 /* StepperPractice.swift */; };
+		945C8F1229FFE884002B7651 /* SliderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945C8F1129FFE884002B7651 /* SliderPractice.swift */; };
 		946765F329FAAA730029AA3B /* AlertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946765F229FAAA730029AA3B /* AlertPractice.swift */; };
 		946BD59129E135C900697B28 /* BackgroundOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */; };
 		946BD59329E13E5500697B28 /* StackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946BD59229E13E5500697B28 /* StackPractice.swift */; };
@@ -69,6 +70,7 @@
 		944E2AB129FD54FD006FF4E8 /* ColorPickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerPractice.swift; sourceTree = "<group>"; };
 		944E2AB329FD5658006FF4E8 /* DatePickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerPractice.swift; sourceTree = "<group>"; };
 		945C8F0F29FFD91B002B7651 /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
+		945C8F1129FFE884002B7651 /* SliderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPractice.swift; sourceTree = "<group>"; };
 		946765F229FAAA730029AA3B /* AlertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPractice.swift; sourceTree = "<group>"; };
 		946BD59029E135C900697B28 /* BackgroundOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayPractice.swift; sourceTree = "<group>"; };
 		946BD59229E13E5500697B28 /* StackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackPractice.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				944E2AB129FD54FD006FF4E8 /* ColorPickerPractice.swift */,
 				944E2AB329FD5658006FF4E8 /* DatePickerPractice.swift */,
 				945C8F0F29FFD91B002B7651 /* StepperPractice.swift */,
+				945C8F1129FFE884002B7651 /* SliderPractice.swift */,
 			);
 			path = BasicCore2;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				9448670129FC079D00F360EA /* ActionSheetPractice.swift in Sources */,
 				94C5765E29EEDD5500024BAC /* IgnoreSafeAreaPractice.swift in Sources */,
 				946BD59929E1626100697B28 /* ScrollViewPractice.swift in Sources */,
+				945C8F1229FFE884002B7651 /* SliderPractice.swift in Sources */,
 				94C271F529F16246005CFEF1 /* ButtonPractice.swift in Sources */,
 				943F9B6329E041D2004D16D1 /* GradientPractice.swift in Sources */,
 				946765F329FAAA730029AA3B /* AlertPractice.swift in Sources */,
