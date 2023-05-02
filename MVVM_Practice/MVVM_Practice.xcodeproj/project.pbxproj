@@ -70,6 +70,31 @@
 			path = User;
 			sourceTree = "<group>";
 		};
+		94D9A6DA2A01049F0068B1D5 /* Fruit */ = {
+			isa = PBXGroup;
+			children = (
+				94EF78A32A00047400A682EA /* FruitModel.swift */,
+			);
+			path = Fruit;
+			sourceTree = "<group>";
+		};
+		94D9A6DB2A0104AA0068B1D5 /* Fruit */ = {
+			isa = PBXGroup;
+			children = (
+				94EF78A72A00079700A682EA /* FruitBasicView.swift */,
+				94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */,
+			);
+			path = Fruit;
+			sourceTree = "<group>";
+		};
+		94D9A6DC2A0104B90068B1D5 /* Fruit */ = {
+			isa = PBXGroup;
+			children = (
+				94EF78A52A0004AD00A682EA /* FruitViewModel.swift */,
+			);
+			path = Fruit;
+			sourceTree = "<group>";
+		};
 		94EF788229FFF94200A682EA = {
 			isa = PBXGroup;
 			children = (
@@ -111,8 +136,8 @@
 		94EF789C29FFFA4500A682EA /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				94D9A6DA2A01049F0068B1D5 /* Fruit */,
 				94D9A6D72A01043D0068B1D5 /* User */,
-				94EF78A32A00047400A682EA /* FruitModel.swift */,
 				94D9A6CB2A00FDE20068B1D5 /* IOSDeviceModel.swift */,
 			);
 			path = Model;
@@ -121,7 +146,7 @@
 		94EF789D29FFFA4B00A682EA /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				94EF78A52A0004AD00A682EA /* FruitViewModel.swift */,
+				94D9A6DC2A0104B90068B1D5 /* Fruit */,
 				94D9A6CF2A00FE270068B1D5 /* IOSDeviceViewModel.swift */,
 			);
 			path = ViewModel;
@@ -130,9 +155,8 @@
 		94EF789E29FFFA5300A682EA /* View */ = {
 			isa = PBXGroup;
 			children = (
+				94D9A6DB2A0104AA0068B1D5 /* Fruit */,
 				94D9A6D92A0104540068B1D5 /* User */,
-				94EF78A72A00079700A682EA /* FruitBasicView.swift */,
-				94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */,
 				94D9A6D12A00FEF70068B1D5 /* IOSDeviceFirstView.swift */,
 				94D9A6D32A00FFC70068B1D5 /* IOSDeviceSecondView.swift */,
 				94D9A6D52A0101430068B1D5 /* IOSDeviceThirdView.swift */,
