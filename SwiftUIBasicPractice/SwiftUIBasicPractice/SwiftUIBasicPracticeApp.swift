@@ -14,7 +14,8 @@ struct SwiftUIBasicPracticeApp: App {
             //ContentView()
 //            TransitionPractice()
             //TextFieldPractice()
-            DatePickerPractice()
+           // DatePickerPractice()
+            AppStoragePractice()
         }
     }
 }
