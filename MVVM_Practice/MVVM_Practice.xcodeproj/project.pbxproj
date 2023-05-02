@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		94D9A6CA2A00FB780068B1D5 /* FruitBasicSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */; };
+		94D9A6CC2A00FDE20068B1D5 /* IOSDeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6CB2A00FDE20068B1D5 /* IOSDeviceModel.swift */; };
+		94D9A6D02A00FE270068B1D5 /* IOSDeviceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6CF2A00FE270068B1D5 /* IOSDeviceViewModel.swift */; };
+		94D9A6D22A00FEF70068B1D5 /* IOSDeviceFirstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6D12A00FEF70068B1D5 /* IOSDeviceFirstView.swift */; };
+		94D9A6D42A00FFC70068B1D5 /* IOSDeviceSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6D32A00FFC70068B1D5 /* IOSDeviceSecondView.swift */; };
+		94D9A6D62A0101430068B1D5 /* IOSDeviceThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6D52A0101430068B1D5 /* IOSDeviceThirdView.swift */; };
 		94EF788F29FFF94200A682EA /* MVVM_PracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF788E29FFF94200A682EA /* MVVM_PracticeApp.swift */; };
 		94EF789129FFF94200A682EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF789029FFF94200A682EA /* ContentView.swift */; };
 		94EF789329FFF94300A682EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94EF789229FFF94300A682EA /* Assets.xcassets */; };
@@ -21,6 +26,11 @@
 
 /* Begin PBXFileReference section */
 		94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitBasicSecondView.swift; sourceTree = "<group>"; };
+		94D9A6CB2A00FDE20068B1D5 /* IOSDeviceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceModel.swift; sourceTree = "<group>"; };
+		94D9A6CF2A00FE270068B1D5 /* IOSDeviceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceViewModel.swift; sourceTree = "<group>"; };
+		94D9A6D12A00FEF70068B1D5 /* IOSDeviceFirstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceFirstView.swift; sourceTree = "<group>"; };
+		94D9A6D32A00FFC70068B1D5 /* IOSDeviceSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceSecondView.swift; sourceTree = "<group>"; };
+		94D9A6D52A0101430068B1D5 /* IOSDeviceThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSDeviceThirdView.swift; sourceTree = "<group>"; };
 		94EF788B29FFF94200A682EA /* MVVM_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94EF788E29FFF94200A682EA /* MVVM_PracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM_PracticeApp.swift; sourceTree = "<group>"; };
 		94EF789029FFF94200A682EA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +97,7 @@
 			children = (
 				94EF789F29FFFA8A00A682EA /* UserModel.swift */,
 				94EF78A32A00047400A682EA /* FruitModel.swift */,
+				94D9A6CB2A00FDE20068B1D5 /* IOSDeviceModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -95,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				94EF78A52A0004AD00A682EA /* FruitViewModel.swift */,
+				94D9A6CF2A00FE270068B1D5 /* IOSDeviceViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -105,6 +117,9 @@
 				94EF78A129FFFBEF00A682EA /* UserModelBasicView.swift */,
 				94EF78A72A00079700A682EA /* FruitBasicView.swift */,
 				94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */,
+				94D9A6D12A00FEF70068B1D5 /* IOSDeviceFirstView.swift */,
+				94D9A6D32A00FFC70068B1D5 /* IOSDeviceSecondView.swift */,
+				94D9A6D52A0101430068B1D5 /* IOSDeviceThirdView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,14 +194,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94D9A6D62A0101430068B1D5 /* IOSDeviceThirdView.swift in Sources */,
+				94D9A6D22A00FEF70068B1D5 /* IOSDeviceFirstView.swift in Sources */,
 				94D9A6CA2A00FB780068B1D5 /* FruitBasicSecondView.swift in Sources */,
 				94EF78A229FFFBEF00A682EA /* UserModelBasicView.swift in Sources */,
+				94D9A6D02A00FE270068B1D5 /* IOSDeviceViewModel.swift in Sources */,
 				94EF78A62A0004AD00A682EA /* FruitViewModel.swift in Sources */,
 				94EF789129FFF94200A682EA /* ContentView.swift in Sources */,
+				94D9A6D42A00FFC70068B1D5 /* IOSDeviceSecondView.swift in Sources */,
 				94EF78A42A00047400A682EA /* FruitModel.swift in Sources */,
 				94EF78A82A00079700A682EA /* FruitBasicView.swift in Sources */,
 				94EF78A029FFFA8A00A682EA /* UserModel.swift in Sources */,
 				94EF788F29FFF94200A682EA /* MVVM_PracticeApp.swift in Sources */,
+				94D9A6CC2A00FDE20068B1D5 /* IOSDeviceModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
