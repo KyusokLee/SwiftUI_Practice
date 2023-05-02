@@ -54,6 +54,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		94D9A6D72A01043D0068B1D5 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				94EF789F29FFFA8A00A682EA /* UserModel.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		94D9A6D92A0104540068B1D5 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				94EF78A129FFFBEF00A682EA /* UserModelBasicView.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
 		94EF788229FFF94200A682EA = {
 			isa = PBXGroup;
 			children = (
@@ -95,7 +111,7 @@
 		94EF789C29FFFA4500A682EA /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				94EF789F29FFFA8A00A682EA /* UserModel.swift */,
+				94D9A6D72A01043D0068B1D5 /* User */,
 				94EF78A32A00047400A682EA /* FruitModel.swift */,
 				94D9A6CB2A00FDE20068B1D5 /* IOSDeviceModel.swift */,
 			);
@@ -114,7 +130,7 @@
 		94EF789E29FFFA5300A682EA /* View */ = {
 			isa = PBXGroup;
 			children = (
-				94EF78A129FFFBEF00A682EA /* UserModelBasicView.swift */,
+				94D9A6D92A0104540068B1D5 /* User */,
 				94EF78A72A00079700A682EA /* FruitBasicView.swift */,
 				94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */,
 				94D9A6D12A00FEF70068B1D5 /* IOSDeviceFirstView.swift */,
