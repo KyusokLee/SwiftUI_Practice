@@ -15,6 +15,11 @@ class FruitViewModel: ObservableObject {
     @Published var fruitArray: [FruitModel] = []
     @Published var isLoading = false
     
+    // init
+    init() {
+        getFruit()
+    }
+    
     // MARK: - Function
     // Viewでは、ひたすらUIに関する処理だけを行わせるようにする
     // MVVMでは、ViewModelでFunction Logicを書く！

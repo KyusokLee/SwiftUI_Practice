@@ -13,7 +13,7 @@ struct FruitBasicView: View {
     // @ObservedObject　を使用して、ViewModelをオブジェクト化する -> 主にSubViewで使用 (親Viewの値を受け取った場合)
 //     @ObservedObject var fruitViewModel = FruitViewModel()
     
-    // @StateObject を使用して、オブジェクト化する -> Viewが初めて生成されるとき、初期化するとき使用! 主に親Viewで使用
+    // @StateObject を使用して、オブジェクト化する -> Viewが初めて生成されるとき、初期化するとき使用! そのため、主に親Viewで使用
     @StateObject var fruitViewModel = FruitViewModel()
     
     var body: some View {
@@ -33,13 +33,13 @@ struct FruitBasicView: View {
                     } // Loop
                 } // Condition
             } // List
-            .onAppear {
-                fruitViewModel.getFruit()
-            }
+//            .onAppear {
+//                fruitViewModel.getFruit()
+//            }
             .navigationBarItems(
                 trailing:
                     NavigationLink(
-                        destination: SecondScreen(),
+                        destination: FruitBasicSecondView(fruitViewModel: fruitViewModel),
                         label: {
                             Image(systemName: "arrow.right")
                         }
@@ -48,13 +48,6 @@ struct FruitBasicView: View {
             .navigationTitle("果物リスト")
         } // Navigation
     }
-}
-
-// SecondScreen
-struct SecondScreen: View {
-    
-    // property
-    
 }
 
 struct FruitBasicView_Previews: PreviewProvider {

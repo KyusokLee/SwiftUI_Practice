@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94D9A6CA2A00FB780068B1D5 /* FruitBasicSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */; };
 		94EF788F29FFF94200A682EA /* MVVM_PracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF788E29FFF94200A682EA /* MVVM_PracticeApp.swift */; };
 		94EF789129FFF94200A682EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EF789029FFF94200A682EA /* ContentView.swift */; };
 		94EF789329FFF94300A682EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94EF789229FFF94300A682EA /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitBasicSecondView.swift; sourceTree = "<group>"; };
 		94EF788B29FFF94200A682EA /* MVVM_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94EF788E29FFF94200A682EA /* MVVM_PracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVM_PracticeApp.swift; sourceTree = "<group>"; };
 		94EF789029FFF94200A682EA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			children = (
 				94EF78A129FFFBEF00A682EA /* UserModelBasicView.swift */,
 				94EF78A72A00079700A682EA /* FruitBasicView.swift */,
+				94D9A6C92A00FB780068B1D5 /* FruitBasicSecondView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94D9A6CA2A00FB780068B1D5 /* FruitBasicSecondView.swift in Sources */,
 				94EF78A229FFFBEF00A682EA /* UserModelBasicView.swift in Sources */,
 				94EF78A62A0004AD00A682EA /* FruitViewModel.swift in Sources */,
 				94EF789129FFF94200A682EA /* ContentView.swift in Sources */,
